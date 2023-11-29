@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\bloggis\bloggis\bin\Debug\bloggis.exe.config
+C:\Users\zirko\source\repos\bloggis\bloggis\bin\Debug\bloggis.exe
+C:\Users\zirko\source\repos\bloggis\bloggis\bin\Debug\bloggis.pdb
+C:\Users\zirko\source\repos\bloggis\bloggis\obj\Debug\bloggis.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\bloggis\bloggis\obj\Debug\bloggis.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\bloggis\bloggis\obj\Debug\bloggis.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\bloggis\bloggis\obj\Debug\bloggis.exe
+C:\Users\zirko\source\repos\bloggis\bloggis\obj\Debug\bloggis.pdb
